@@ -1,3 +1,1 @@
-#Hi
-
-#Hello
+A C++ Project Template.
