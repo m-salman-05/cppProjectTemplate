@@ -1,1 +1,1 @@
-A C++ Project Template.
+# A C++ Project Template
