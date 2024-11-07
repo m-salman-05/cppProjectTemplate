@@ -1,0 +1,1 @@
+This directory will contain the libray files of the 3rd party library that you may be using in your project.
